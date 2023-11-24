@@ -1,0 +1,4 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.js"
+}
